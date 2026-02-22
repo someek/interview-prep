@@ -1,2 +1,2 @@
-# Interview Notes
-Collection of all my interview notes.
+# Interview Preparation Notes
+Collection of all my interview preparation notes.
